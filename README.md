@@ -3,7 +3,7 @@
 
 _Olá Mundo !! 🌎_
 
-_Mergulhando nesse oceano da tecnologia_
+                                             _Mergulhando nesse oceano da tecnologia_
 
 [![GIF](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
