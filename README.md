@@ -1,4 +1,4 @@
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana576)](https://github.com/Ana576/github-readme-stats)
 ## 
 
 _Olá Mundo !! 🌎_
