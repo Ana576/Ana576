@@ -6,7 +6,7 @@
                                              _Mergulhando nesse oceano da tecnologia_
                                              
 
--   Eu moro no nordeste, Salavador - BA 😎🌅
+-   Eu moro no nordeste, Salvador - BA 😎🌅
 -   Tenho aprendido mais sobre Desenvolvimento Web 🖥️                                  
 -   Tenho aprendido mais sobre ciência de dados 💰🧁
 
