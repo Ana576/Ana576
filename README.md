@@ -11,9 +11,6 @@ _Olá Mundo !! 🌎_
 -   Tenho aprendido mais sobre ciência de dados 💰🧁
                                                                            [![GIF](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana576)](https://github.com/Ana576/github-readme-stats)
 
 
