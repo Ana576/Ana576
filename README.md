@@ -1,15 +1,17 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana576)](https://github.com/Ana576/github-readme-stats)
+
 ## 
 
 _Olá Mundo !! 🌎_
 
                                              _Mergulhando nesse oceano da tecnologia_
-
-[![GIF](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+                                             
 
 -   Eu moro no nordeste, Salavador - BA 😎🌅
--   Tenho aprendido mais sobre Desenvolvimento Web 🖥️
+-   Tenho aprendido mais sobre Desenvolvimento Web 🖥️                                  [![GIF](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 -   Tenho aprendido mais sobre ciência de dados 💰🧁
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana576)](https://github.com/Ana576/github-readme-stats)
+
 
 ### [](https://https://github.com/Ana576#stacks)_Pilhas_
 
