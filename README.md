@@ -9,13 +9,10 @@ _Olá Mundo !! 🌎_
 -   Eu moro no nordeste, Salavador - BA 😎🌅
 -   Tenho aprendido mais sobre Desenvolvimento Web 🖥️                                  
 -   Tenho aprendido mais sobre ciência de dados 💰🧁
-                                                                           [![GIF](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+                                                                           
+### [](https://https://github.com/Ana576#stacks)_Pilhas_ [![GIF](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana576)](https://github.com/Ana576/github-readme-stats)
-
-
-### [](https://https://github.com/Ana576#stacks)_Pilhas_
-
 línguas
 
 Ferramentas
